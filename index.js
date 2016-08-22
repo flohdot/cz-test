@@ -6,4 +6,4 @@ console.log('hello world');
 
 setTimeout(function() {
 	console.log(`my version is ${pjson.version}`);
-}, 5000)
+}, 1000)
